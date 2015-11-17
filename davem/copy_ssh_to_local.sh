@@ -1,2 +1,2 @@
-#!/usr/bin
+#!/bin/bash`
 cp ssh-config ~/.ssh/config
