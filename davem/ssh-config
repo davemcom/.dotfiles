@@ -1,0 +1,10 @@
+
+host prod-aws
+    HostName ec2-54-68-203-19.us-west-2.compute.amazonaws.com
+    IdentityFile ~/.ssh/knotis-production.pem
+    User ubuntu
+
+host home
+    HostName home.davem.com
+    IdentityFile ~/.ssh/home-davem-com.id_rsa
+    User davem
